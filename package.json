@@ -19,9 +19,7 @@
     "url": "https://github.com/KiraOliveira/project_cypress/issues"
   },
   "homepage": "https://github.com/KiraOliveira/project_cypress#readme",
-  "dependencies": {
+  "devDependencies": {
     "cypress": "^9.4.1"
   }
 }
-
-
